@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/Praneeth3105/Leet-Code-Problems/tree/master/0013-roman-to-integer) |
 | [0067-add-binary](https://github.com/Praneeth3105/Leet-Code-Problems/tree/master/0067-add-binary) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Praneeth3105/Leet-Code-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Praneeth3105/Leet-Code-Problems/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## String
 |  |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Praneeth3105/Leet-Code-Problems/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/Praneeth3105/Leet-Code-Problems/tree/master/0014-longest-common-prefix) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Praneeth3105/Leet-Code-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 ## Trie
 |  |
 | ------- |
@@ -55,4 +57,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Praneeth3105/Leet-Code-Problems/tree/master/0067-add-binary) |
+## Sorting
+|  |
+| ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/Praneeth3105/Leet-Code-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 <!---LeetCode Topics End-->
